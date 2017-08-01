@@ -58,6 +58,14 @@
 						<li><a href="http://www.49ers.com/" target="_blank">49ers</a></li>
 						<li><a href="https://www.mlb.com/giants" target="_blank">Giants</a></li>
 						<li><a href="http://www.nba.com/warriors/" target="_blaml">Warriors</a></li>
+					</ul>
+
+						<div class="jumbotron">
+							<div class="container">
+								...<h6>Hello, World</h6>
+								<p>I am a huge Bay Area sports fan! Congratulations to the Golden State Warriors 2017 NBA CHAMPS! </p>
+							</div>
+						</div>
 
 		</nav>
 	</body>
