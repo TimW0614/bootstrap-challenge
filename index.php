@@ -38,7 +38,28 @@
 
 	</head>
 	<body>
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">Bootstrap Challenge</a>
+				</div>
 
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="http://www.espn.com/" target="_blank">ESPN</a></li>
+						<li><a href="http://www.49ers.com/" target="_blank">49ers</a></li>
+						<li><a href="https://www.mlb.com/giants" target="_blank">Giants</a></li>
+						<li><a href="http://www.nba.com/warriors/" target="_blaml">Warriors</a></li>
+
+		</nav>
 	</body>
 
 
