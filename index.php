@@ -51,8 +51,6 @@
 					<a class="navbar-brand" href="#">Bootstrap Challenge</a>
 				</div>
 			</div>
-		</nav>
-
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
@@ -61,6 +59,8 @@
 						<li><a href="https://www.mlb.com/giants" target="_blank">Giants</a></li>
 						<li><a href="http://www.nba.com/warriors/" target="_blaml">Warriors</a></li>
 					</ul>
+				</div>
+		</nav>
 					<section>
 							<div class="container">
 								<div class="row">
