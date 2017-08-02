@@ -67,7 +67,7 @@
 									<div class="col-md-12">
 										<div class="jumbotron">
 											<h6>Hello, World</h6>
-											<p>I am a huge Bay Area sports fan! Congratulations to the Golden State Warriors 2017 NBA CHAMPS! </p>
+											<p>I am a huge Bay Area sports fan! Congratulations to the Golden State Warriors 2017 N.B.A CHAMPS! </p>
 										</div>
 									</div>
 								</div>
@@ -86,9 +86,9 @@
 								<br/>
 									<p>After the Golden State Warriors failed to finish off the Cleveland Cavaliers in last year’s
 										N.B.A. finals, blowing a 3-1 lead in the series, they knew they needed to get better if they
-										wanted to go from a one-time title winner to a dynasty. They did that and won the 2017 NBA
+										wanted to go from a one-time title winner to a dynasty. They did that and won the 2017 N.B.A
 									Championship</p><br/>
-								<p>The key to their championship run was the aquisition of Kevin Durant, the former NBA MVP and
+								<p>The key to their championship run was the aquisition of Kevin Durant, the former N.B.A MVP and
 								scoring champ. Teaming him up with the likes of Steph Curry, Klay Thompson and Draymong Green
 								paid dividends. The Warriors have no won championships in 2 of the last three years and are
 								on the cusp of being a dynasty.</p>
