@@ -50,6 +50,8 @@
 					</button>
 					<a class="navbar-brand" href="#">Bootstrap Challenge</a>
 				</div>
+			</div>
+		</nav>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -59,15 +61,39 @@
 						<li><a href="https://www.mlb.com/giants" target="_blank">Giants</a></li>
 						<li><a href="http://www.nba.com/warriors/" target="_blaml">Warriors</a></li>
 					</ul>
-
-						<div class="jumbotron">
+					<section>
 							<div class="container">
-								...<h6>Hello, World</h6>
-								<p>I am a huge Bay Area sports fan! Congratulations to the Golden State Warriors 2017 NBA CHAMPS! </p>
+								<div class="row">
+									<div class="col-md-12">
+										<div class="jumbotron">
+											<h6>Hello, World</h6>
+											<p>I am a huge Bay Area sports fan! Congratulations to the Golden State Warriors 2017 NBA CHAMPS! </p>
+										</div>
+									</div>
+								</div>
+							</div>
+					</section>
+
+					<!-- Photo and text section -->
+					<section class="bg-info text-center">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3">
+									<img class="img-responsive img" src="images/gsw.png" alt="Warriors"/>
+									<div class="md-col-9"/>
+									<p>After the Golden State Warriors failed to finish off the Cleveland Cavaliers in last year’s
+										N.B.A. finals, blowing a 3-1 lead in the series, they knew they needed to get better if they
+										wanted to go from a one-time title winner to a dynasty.</p>
+									<p>Durant, who became just the sixth player in N.B.A. history to score 30 or more points in
+										each game of a finals, had 39 in the series-clinching Game 5 victory. He proved his value
+										all over the court with dominant play inside, great outside shooting and tenacious defense
+										as the Warriors beat the Cavaliers 129-120.</p>
+								</div>
+								</div>
 							</div>
 						</div>
+					</section>
 
-		</nav>
 	</body>
 
 
