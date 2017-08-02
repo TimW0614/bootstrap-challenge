@@ -82,6 +82,8 @@
 									<img class="img-responsive img" src="images/gsw.png" alt="Warriors"/>
 								</div>
 									<div class="col-md-7 col-md-offset-1"/>
+								<br/>
+								<br/>
 									<p>After the Golden State Warriors failed to finish off the Cleveland Cavaliers in last year’s
 										N.B.A. finals, blowing a 3-1 lead in the series, they knew they needed to get better if they
 										wanted to go from a one-time title winner to a dynasty. They did that and won the 2017 NBA
