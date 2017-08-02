@@ -80,15 +80,16 @@
 							<div class="row">
 								<div class="col-md-3">
 									<img class="img-responsive img" src="images/gsw.png" alt="Warriors"/>
-									<div class="md-col-9"/>
+								</div>
+									<div class="col-md-7 col-md-offset-1"/>
 									<p>After the Golden State Warriors failed to finish off the Cleveland Cavaliers in last year’s
 										N.B.A. finals, blowing a 3-1 lead in the series, they knew they needed to get better if they
-										wanted to go from a one-time title winner to a dynasty.</p>
-									<p>Durant, who became just the sixth player in N.B.A. history to score 30 or more points in
-										each game of a finals, had 39 in the series-clinching Game 5 victory. He proved his value
-										all over the court with dominant play inside, great outside shooting and tenacious defense
-										as the Warriors beat the Cavaliers 129-120.</p>
-								</div>
+										wanted to go from a one-time title winner to a dynasty. They did that and won the 2017 NBA
+									Championship</p><br/>
+								<p>The key to their championship run was the aquisition of Kevin Durant, the former NBA MVP and
+								scoring champ. Teaming him up with the likes of Steph Curry, Klay Thompson and Draymong Green
+								paid dividends. The Warriors have no won championships in 2 of the last three years and are
+								on the cusp of being a dynasty.</p>
 								</div>
 							</div>
 						</div>
