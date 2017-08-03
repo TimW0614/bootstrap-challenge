@@ -42,7 +42,8 @@
 			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+							  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
@@ -51,54 +52,90 @@
 					<a class="navbar-brand" href="#">Bootstrap Challenge</a>
 				</div>
 			</div>
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="http://www.espn.com/" target="_blank">ESPN</a></li>
-						<li><a href="http://www.49ers.com/" target="_blank">49ers</a></li>
-						<li><a href="https://www.mlb.com/giants" target="_blank">Giants</a></li>
-						<li><a href="http://www.nba.com/warriors/" target="_blaml">Warriors</a></li>
-					</ul>
-				</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="http://www.espn.com/" target="_blank">ESPN</a></li>
+					<li><a href="http://www.49ers.com/" target="_blank">49ers</a></li>
+					<li><a href="https://www.mlb.com/giants" target="_blank">Giants</a></li>
+					<li><a href="http://www.nba.com/warriors/" target="_blaml">Warriors</a></li>
+				</ul>
+			</div>
 		</nav>
-					<section>
-							<div class="container">
-								<div class="row">
-									<div class="col-md-12">
-										<div class="jumbotron">
-											<h6>Hello, World</h6>
-											<p>I am a huge Bay Area sports fan! Congratulations to the Golden State Warriors 2017 N.B.A CHAMPS! </p>
-										</div>
-									</div>
-								</div>
-							</div>
-					</section>
-
-					<!-- Photo and text section -->
-					<section class="bg-info text-center">
-						<div class="container">
-							<div class="row">
-								<div class="col-md-3">
-									<img class="img-responsive img" src="images/gsw.png" alt="Warriors"/>
-								</div>
-									<div class="col-md-7 col-md-offset-1"/>
-								<br/>
-								<br/>
-									<p>After the Golden State Warriors failed to finish off the Cleveland Cavaliers in last year’s
-										N.B.A. finals, blowing a 3-1 lead in the series, they knew they needed to get better if they
-										wanted to go from a one-time title winner to a dynasty. They did that and won the 2017 N.B.A
-									Championship</p><br/>
-								<p>The key to their championship run was the aquisition of Kevin Durant, the former N.B.A MVP and
-								scoring champ. Teaming him up with the likes of Steph Curry, Klay Thompson and Draymong Green
-								paid dividends. The Warriors have no won championships in 2 of the last three years and are
-								on the cusp of being a dynasty.</p>
-								</div>
-							</div>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="jumbotron">
+							<h6>Hello, World</h6>
+							<p>I am a huge Bay Area sports fan! Congratulations to the Golden State Warriors 2017
+								N.B.A CHAMPS! </p>
 						</div>
-					</section>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Photo and text section -->
+		<section class="bg-info text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<img class="img-responsive img" src="images/gsw.png" alt="Warriors"/>
+					</div>
+					<div class="col-md-7 col-md-offset-1"/>
+					<br/>
+					<br/>
+					<p>After the Golden State Warriors failed to finish off the Cleveland Cavaliers in last year’s
+						N.B.A. finals, blowing a 3-1 lead in the series, they knew they needed to get better if they
+						wanted to go from a one-time title winner to a dynasty. They did that and won the 2017 N.B.A
+						Championship</p><br/>
+					<p>The key to their championship run was the aquisition of Kevin Durant, the former N.B.A MVP and
+						scoring champ. Teaming him up with the likes of Steph Curry, Klay Thompson and Draymong Green
+						paid dividends. The Warriors have no won championships in 2 of the last three years and are
+						on the cusp of being a dynasty.</p>
+				</div>
+			</div>
+			</div>
+		</section>
+
+
+		</div><!-- /.row featurette -->
+		<hr class="featurette-divider">
+		<div class="row">
+			<div class="col-md-3 col-sm-6">
+				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<h2>Champs</h2>
+				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
+				as the #1 seed.</p>
+			</div><!-- /.col-md-3 col-sm-6 -->
+
+			<div class="col-md-3 col-sm-6">
+				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<h2>Champs</h2>
+				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
+					as the #1 seed.</p>
+			</div><!-- /.col-md-3 col-sm-6 -->
+
+			<div class="col-md-3 col-sm-6">
+				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<h2>Champs</h2>
+				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
+					as the #1 seed.</p>
+			</div><!-- /.col-md-3 col-sm-6 -->
+
+			<div class="col-md-3 col-sm-6">
+				<img class="img-cirlce" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<h2>Champs</h2>
+				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
+					as the #1 seed.</p>
+			</div><!-- /.col-md-3 col-sm-6 -->
+		</div><!-- /.row -->
+		</div>
+
+
 
 	</body>
-
 
 
 </html>
