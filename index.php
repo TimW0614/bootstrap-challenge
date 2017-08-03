@@ -96,43 +96,39 @@
 						on the cusp of being a dynasty.</p>
 				</div>
 			</div>
-			</div>
 		</section>
 
-
-		</div>
 		<hr class="featurette-divider">
 		<div class="row">
 			<div class="col-md-3 col-sm-6">
-				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation"/>
 				<h2>Champs</h2>
 				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
 					as the #1 seed.</p>
 			</div><!-- /.col-md-3 col-sm-6 -->
 
 			<div class="col-md-3 col-sm-6">
-				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation"/>
 				<h2>Champs</h2>
 				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
 					as the #1 seed.</p>
 			</div><!-- /.col-md-3 col-sm-6 -->
 
 			<div class="col-md-3 col-sm-6">
-				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<img class="img-circle" src="images/gswlogo.png" alt="Dub Nation"/>
 				<h2>Champs</h2>
 				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
 					as the #1 seed.</p>
 			</div><!-- /.col-md-3 col-sm-6 -->
 
 			<div class="col-md-3 col-sm-6">
-				<img class="img-cirlce" src="images/gswlogo.png" alt="Dub Nation" width="160" height="160">
+				<img class="img-cirlce" src="images/gswlogo.png" alt="Dub Nation"/>
 				<h2>Champs</h2>
 				<p>The Warriors finished the season at 67-15, won the Pacific Dision Championship and entered the playoffs
 					as the #1 seed.</p>
 			</div><!-- /.col-md-3 col-sm-6 -->
 		</div><!-- /.row -->
 
-		</div><!-- end of sfooter-content-->
 		<hr class="featurette-divider">
 		<!-- FOOTER -->
 		<footer class="text-center">
